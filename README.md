@@ -2,7 +2,7 @@
 
 MCP server for comedy writing — humor theory, techniques, and comedian knowledge.
 
-Part of the [CRAFT](https://github.com/VibeSmiths/VideoIdeas) content studio.
+Part of the [CRAFT](https://github.com/Mossworks-Labs/craft) content studio.
 
 ## Tools
 
